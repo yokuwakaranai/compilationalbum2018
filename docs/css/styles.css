@@ -1,4 +1,6 @@
-
+.left{
+  overflow: hidden;
+}
 h1 {
   letter-spacing: -0.2em;
   font-size: 100px;
@@ -114,7 +116,6 @@ header {
   margin-bottom: 0;
  }
 body {
-  position: relative;
   width: 100%;
   -webkit-text-size-adjust: 100%;
   margin: 0px;
