@@ -114,6 +114,7 @@ header {
   margin-bottom: 0;
  }
 body {
+  overflow: hidden;
   -webkit-text-size-adjust: 100%;
   margin: 0px;
   background-color: #fff;
