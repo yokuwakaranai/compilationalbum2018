@@ -8,14 +8,16 @@ h1 {
 }
 h2 {
   font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-  font-size: 50px;
+  font-size: 60px;
   font-feature-settings : "palt";
   text-align: left;
   color: #fff;
   font-weight: bold;
   margin-bottom: 1em;
 }
-wf-notosansjapanese { font-family: "Noto Sans Japanese"; }
+wf-notosansjapanese {
+  font-family: "Noto Sans Japanese";
+}
 header {
   padding-top: 4em;
   padding-bottom: 2em;
@@ -59,9 +61,9 @@ header {
   padding-bottom: -80px;
   margin: 0px;
   font-style: italic;
-  font-family: "Noto Sans Japanese""Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+  font-family: "Noto Sans Japanese","Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif ;
   font-weight: 700;
-  letter-spacing: -0.05em;
+  letter-spacing: -0.01em;
   font-size: 100px;
   color: #ff3d00
 }
@@ -75,7 +77,7 @@ header {
 }
 .note{
   font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-  font-size: 12px;
+  font-size: 32px;
   font-feature-settings : "palt";
   text-align: left;
   color: #fff;
@@ -83,7 +85,7 @@ header {
 }
 .subtext {
   font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-  font-size: 15px;
+  font-size: 40px;
   font-feature-settings : "palt";
   text-align: left;
   color: #fff;
@@ -94,8 +96,8 @@ header {
   background-color: #060606;
 }
 .text{
-  margin-left: 4em;
-  margin-right: 4em;
+  margin-left: 5em;
+  margin-right: 5em;
 }
 .text1{
   padding-bottom: 3em;
@@ -103,12 +105,11 @@ header {
 }
 .comment {
 	text-indent: 1em;
-  padding-left: 1em;
 	color: #fff;
 	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-  font-size: 25px;
-  letter-spacing: 0.2em;
-  line-height: 2.5em;
+  font-size: 40px;
+  letter-spacing: 0.15em;
+  line-height: 1.65em;
   margin-top: 0;
   margin-bottom: 0;
  }
@@ -138,6 +139,6 @@ footer{
 .footer{
   color: #fff;
 	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-  font-size: 12px;
+  font-size: 32px;
   letter-spacing: 0.07em;
 }
